@@ -1,0 +1,119 @@
+/* No tocar */
+#cool-navbar{
+    font-size: 16pt !important;
+}
+
+.cool-img{
+    width: 170px;
+    height: 60px;
+}
+/* Header del inicio Contacta con nosotros */
+#cool-nav {
+    background-color: rgb(255, 92, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    gap: 10px;
+}
+
+.icons-rs {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+#cool-nav p {
+    margin: 0;
+    line-height: 1; 
+}
+
+
+/* texto del centro */
+#card-img-logo{
+    width: 290px;
+    height: 100px;
+}
+
+.card-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:35px;
+    font-weight: bold;
+    color: aliceblue !important;
+    
+}
+
+.card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: aliceblue !important;
+}
+
+.card-text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: aliceblue !important;
+}
+
+#bg-card{
+    background-image:linear-gradient(to right, #791718, #cc2d2d);
+}
+/* - - */
+.texto-color-negro{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.descripcion-color-negro{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+
+/* Aqui termina */
+
+.pagination{
+    justify-content: center;
+}
+
+.box{
+    display: flex;
+    height: 500px;
+    background-image:linear-gradient(to right, #800000, #b31919);
+}
+
+.texto-color{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.h1-box{
+    color: rgb(255, 255, 255);
+}
+
+.box-2{
+    
+    background-image:linear-gradient(to right, #800000, #b31919);
+    padding: 1.5rem;
+        /* bordes del div */
+        border-top: 4px solid red;
+        border-right: 4px solid red;
+        border-bottom: 4px double #800000;
+        border-left: 4px double #800000;
+        padding: 20px;
+        /* ° * ° * ° */
+}
+
+
+.xdd{
+    width: flex;
+    height: 200px;
+}
+
